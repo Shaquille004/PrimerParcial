@@ -1,0 +1,31 @@
+
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  
+    text-align: center;
+  }
+  
+  h1{
+    color:#007B;
+  }
+  
+  label{
+    font-weight: bold;
+  }
+  
+  input{
+    padding:px;
+  }
+  
+  button{
+    background-color: #adebffbb;
+    color: black;
+    padding:10px 20px;
+    cursor: Pointer;
+  }
+  
+  #Mensaje{
+    font-weight: bold;
+    color: #000000
+    margin-top 10px;
+  }
